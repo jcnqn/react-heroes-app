@@ -1,0 +1,16 @@
+@import './bootstrap.min.css';
+
+.hero_card {
+    width: 400px;
+    margin: 10px;
+}
+
+.card-columns {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navbar_flex {
+    display: flex;
+    justify-content: space-between;
+}
